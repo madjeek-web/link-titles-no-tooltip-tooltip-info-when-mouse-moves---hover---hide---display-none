@@ -40,6 +40,7 @@ ___
 ##/*** CUT TEXT ***/
 ##.cut-texte-magic { -webkit-hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */ -moz-hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */
 ##-ms-hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */ hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */ overflow-wrap: break-word; /* css 3 */ }
+##@SEE + : NORMALIZE CSS (mit project) : https://github.com/necolas/normalize.css
 ___
 ## COMBO WHITH :
 ## @see : https://github.com/madjeek-web/tooltips-display-none-img-hover-mouse
