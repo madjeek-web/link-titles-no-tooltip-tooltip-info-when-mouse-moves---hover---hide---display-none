@@ -1,3 +1,9 @@
+fix bug 19/06/2022: if the test does not work, the solution is to put the script before the body closure tag. And JQU. 1.8 in the head. Not really good for seo, I know, but no other choice. If you have another technique to do this in a simpler and/or cleaner way, send me a message. Thank you.
+
+![cats-fix-bug-link-tooltip](https://user-images.githubusercontent.com/83957788/174487486-de2ea0a2-22af-4062-b10f-d4c66f4c9b1a.jpg)
+
+____
+
 ![catsNEOOOO](https://user-images.githubusercontent.com/83957788/174464598-600b169f-12d8-44da-81ba-fcd821bd6d26.jpg)
 
 
@@ -7,6 +13,7 @@ link titles, no tooltip / tooltip info, when mouse moves - hover - hide - displa
 ![cats-link-no-tooltip-1](https://user-images.githubusercontent.com/83957788/174464267-d25cecba-5385-4606-87c5-ea8c7d481948.jpg)
 
 ![cats-html-no-tooltip-link-hover-mouse](https://user-images.githubusercontent.com/83957788/174464323-8f396cc8-0c71-4818-a425-10c22b12ac8e.jpg)
+
 
 ![cats-matrixxx](https://user-images.githubusercontent.com/83957788/174464452-ee98764f-86f2-4d40-9b33-62d46755cbc5.jpg)
 
