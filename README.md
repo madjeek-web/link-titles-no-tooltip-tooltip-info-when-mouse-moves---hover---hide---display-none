@@ -24,6 +24,11 @@ link titles, no tooltip / tooltip info, when mouse moves - hover - hide - displa
 ___
 # OPTIONAL BONUS + NORMALIZE CSS / OPTIMIZZZzzz... IE and other...
 
+#*, body, button, input, textarea, select {text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale;}
+#body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {margin:0; padding:0;}
+#q:before,q:after {content:'';}
+#abbr,acronym { border:0;}
+
 # (text and links - protect )
 ## .no-select { -webkit-user-select: none; /* Safari */ -ms-user-select: none; /* IE 10 and IE 11 */ user-select: none; /* Standard syntax */ }
 ## /*** Remove the border on images inside links in IE 10 ***/
@@ -42,6 +47,7 @@ ___
 ___
 ## COMBO WHITH :
 ## @see : https://github.com/madjeek-web/tooltips-display-none-img-hover-mouse
+___
 
 ## MADJEEK TUTO
 
