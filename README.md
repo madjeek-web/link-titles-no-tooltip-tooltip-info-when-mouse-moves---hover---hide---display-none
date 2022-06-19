@@ -1,3 +1,6 @@
+![catsNEOOOO](https://user-images.githubusercontent.com/83957788/174464598-600b169f-12d8-44da-81ba-fcd821bd6d26.jpg)
+
+
 # link-titles-no-tooltip-tooltip-info-when-mouse-moves---hover---hide---display-none
 link titles, no tooltip / tooltip info, when mouse moves - hover - hide - display-none - solution -black hat - seo important titles - hack - JavaScript + jQuery 1.8.3
 
