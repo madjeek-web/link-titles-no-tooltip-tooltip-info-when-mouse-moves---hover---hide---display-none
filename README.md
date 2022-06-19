@@ -28,19 +28,15 @@ ___
 #body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {margin:0; padding:0;}
 #q:before,q:after {content:'';}
 #abbr,acronym { border:0;}
-
-# (text and links - protect )
-## .no-select { -webkit-user-select: none; /* Safari */ -ms-user-select: none; /* IE 10 and IE 11 */ user-select: none; /* Standard syntax */ }
-## /*** Remove the border on images inside links in IE 10 ***/
+#(text and links - protect )
+##.no-select { -webkit-user-select: none; /* Safari */ -ms-user-select: none; /* IE 10 and IE 11 */ user-select: none; /* Standard syntax */ }
+##/*** Remove the border on images inside links in IE 10 ***/
 ##img { border-style: none; }
-
 ##/*** LINKS - ON / OFF - OPTION ***/
 ##a { list-style-type: none; text-decoration: none; color: #fff; background-color: transparent; /* Remove the gray background on active links in IE 10*/ }
 ##/*** a:link { color: #000; } a:visited { color: #000; } a:hover { color: #fff; } a:active { color: rgb(126, 126, 126); }  ***/
-
 ##/*** NAVIGATION - MENU ***/
 ##ul, li { list-style-type: none; }
-
 ##/*** CUT TEXT ***/
 ##.cut-texte-magic { -webkit-hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */ -moz-hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */
 ##-ms-hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */ hyphens: auto; /* Firefox, IE10+ et Safari 5.1+ */ overflow-wrap: break-word; /* css 3 */ }
