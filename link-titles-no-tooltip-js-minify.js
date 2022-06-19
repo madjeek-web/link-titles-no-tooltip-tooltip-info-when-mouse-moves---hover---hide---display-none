@@ -1,0 +1,1 @@
+$("a").hover((function(t){$(this).attr("data-title",$(this).attr("title")),$(this).removeAttr("title")}),(function(t){$(this).attr("title",$(this).attr("data-title"))}));
