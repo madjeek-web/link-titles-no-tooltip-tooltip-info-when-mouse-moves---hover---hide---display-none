@@ -19,10 +19,5 @@ ___
 
 ## COMBO WHITH :
 ## @see : https://github.com/madjeek-web/tooltips-display-none-img-hover-mouse
-___
-
-## MADJEEK TUTO
-
-![logo_madjeek_white_600](https://user-images.githubusercontent.com/83957788/174466024-c8f7802b-f62e-4d5b-91b3-128d243bbff8.png)
 
 
