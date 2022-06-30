@@ -14,9 +14,6 @@ link titles, no tooltip / tooltip info, when mouse moves - hover - hide - displa
 
 ![cats-html-no-tooltip-link-hover-mouse](https://user-images.githubusercontent.com/83957788/174464323-8f396cc8-0c71-4818-a425-10c22b12ac8e.jpg)
 
-
-![cats-matrixxx](https://user-images.githubusercontent.com/83957788/174464452-ee98764f-86f2-4d40-9b33-62d46755cbc5.jpg)
-
 ## +add JQU. @see : https://blog.jquery.com/2012/11/13/jquery-1-8-3-released/ 
 ___
 # OPTIONAL BONUS + NORMALIZE CSS / OPTIMIZZZzzz... IE and other...
