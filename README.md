@@ -29,16 +29,6 @@ $('a').hover(function(e) {
 
   });
 ```
-```html
-<body>
-    <main role="main">
-      
-        <a title="Da Title" href="#">Da Link</a>
-
-    </main>
-  </body>
-```
-
 ## +add JQU. @see : https://blog.jquery.com/2012/11/13/jquery-1-8-3-released/ 
 ___
 
