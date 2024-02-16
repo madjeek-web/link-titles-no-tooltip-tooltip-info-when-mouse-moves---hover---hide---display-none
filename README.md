@@ -1,4 +1,4 @@
-fix bug 19/06/2022: if the test does not work, the solution is to put the script before the body closure tag. And JQU. 1.8 in the head. Not really good for seo, I know, but no other choice. If you have another technique to do this in a simpler and/or cleaner way, send me a message. Thank you.
+fix bug 19/06/2022: if the test does not work, the solution is to put the script before the body closure tag. And JQU. 1.8 in the head.
 
 # NEW TEST : OK
 #@see: https://github.com/madjeek-web/link-titles-no-tooltip-tooltip-info-when-mouse-moves---hover---hide---display-none/blob/main/NEW%20TEST%20(%20OK%20)%20-%20FIX%20BUG%20-%20HTML%20WEBPAGE.html
